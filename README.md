@@ -17,4 +17,7 @@
 Отчет по результатам тестирования приложения “shopping-list”
 - [Ссылка на документ](https://docs.google.com/document/d/1BYapcBrdRThSmiT7fCDZydAeDvAnCyqho8eBHAJazhk/edit?usp=sharing)
 
-
+Перехват и изменение трафика с помощью Charles Proxy
+- [Ссылка на видео 1](https://drive.google.com/file/d/1GKnI7KcFDK6ZlbcFjnLjHiftg8n6lT12/view?usp=sharing)
+- [Ссылка на видео 2](https://drive.google.com/file/d/1PWOMtrsWaIfN6NAZdyyydV5cTkLqrWDF/view?usp=sharing)
+- [Ссылка на скриншот](https://drive.google.com/file/d/1qyOjIHaz-0xcWIy8lLFcsT7Ii9G6K8FV/view?usp=share_link)
